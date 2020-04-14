@@ -1,11 +1,11 @@
-#Interspecies Bioaccumulation of Mercury in Ternary Fish-Fish-Algae Bio-system
+# Interspecies Bioaccumulation of Mercury in Ternary Fish-Fish-Algae Bio-system
 
-##An experimental approach at modelling toxic accumulation in aquatic species
+## An experimental approach at modelling toxic accumulation in aquatic species
 
 Christopher Yeung, Tianhe Li, Daniel Lacaz Ruiz
 
 
-###Abstact
+### Abstact
 
 Bioaccumulation is the process by which a toxin or heavy metal accumulates within a
 living organism. Biomagnification describes the process whereby toxin moves up the food chain
